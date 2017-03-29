@@ -1,0 +1,10 @@
+{
+    "name": "magentoese/magento-fe-deploy-example",
+    "type": "magento2-theme",
+    "require": {
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [ "registration.php" ]
+    }
+}
